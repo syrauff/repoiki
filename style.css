@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 248, 151);
+}
+h1{
+    padding:15px;
+    background-color: black;
+    margin: 0px 400px;
+    border-radius: 15px;
+}
+td {
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+}
+form{
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+}
+table{
+    border-color:aqua;
+}
+input{
+    background-color:hsl(189, 91%, 70%)}
+.gerak{
+    background-color: antiquewhite;
+
+}
+#warnaubah{
+    color:rgb(234, 0, 255)
+}
